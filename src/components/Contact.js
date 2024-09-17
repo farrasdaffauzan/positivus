@@ -45,7 +45,7 @@ function Contact() {
               </div>
 
               <div className="w-1/2 hidden lg:block absolute top-0 -right-14">
-                <img src="/images/illustrationContact.svg" alt="..." className="" />
+                <img src="/images/Contact.svg" alt="..." className="" />
               </div>
             </div>
           </div>
