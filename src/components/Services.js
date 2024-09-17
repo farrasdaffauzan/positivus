@@ -40,7 +40,7 @@ function Services() {
               </div>
 
               <div className="absolute top-24 lg:top-12 right-6">
-                <img src="/images/services/illustration (3).svg" alt=" ilustrasi 1" className="w-[200px] lg:w-[250px]" />
+                <img src="/images/services/illustration3.svg" alt=" ilustrasi 1" className="w-[200px] lg:w-[250px]" />
               </div>
             </div>
           </div>
@@ -58,7 +58,7 @@ function Services() {
               </div>
 
               <div className="absolute top-10 lg:top-2 right-8">
-                <img src="/images/services/illustration (1).svg" alt=" ilustrasi 1" className="w-[200px] lg:w-[230px]" />
+                <img src="/images/services/illustration1.svg" alt=" ilustrasi 1" className="w-[200px] lg:w-[230px]" />
               </div>
             </div>
           </div>
@@ -94,7 +94,7 @@ function Services() {
               </div>
 
               <div className="absolute top-16 lg:top-10 right-8 lg:right-12">
-                <img src="/images/services/illustration (2).svg" alt=" ilustrasi 1" className="w-[180px] lg:w-[210px]" />
+                <img src="/images/services/illustration2.svg" alt=" ilustrasi 1" className="w-[180px] lg:w-[210px]" />
               </div>
             </div>
           </div>

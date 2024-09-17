@@ -18,7 +18,7 @@ const Hero = () => {
           </div>
 
           <div className="order-2 lg:col-span-2 row-span-3 lg:order-4">
-            <img src="/images/illustration.svg" alt="illustration" className="p-4" />
+            <img src="/images/Hero.svg" alt="illustration" className="p-4" />
           </div>
         </div>
       </div>
